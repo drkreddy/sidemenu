@@ -1,0 +1,10 @@
+.Body {
+	display: flex;
+	height: 550px;
+}
+
+
+.Body-Frame {
+	display: inline-flex;
+	width: 100%
+}

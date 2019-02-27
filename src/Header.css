@@ -1,0 +1,14 @@
+.Heading {
+  	text-align: center;
+  	font-size: 25px;
+  	color: skyblue;
+  	background: #32333d;
+    height: 70px;
+}
+
+.Heading-para{
+	margin: auto;
+    vertical-align: middle;
+    padding-top: 17px;
+    font-weight: bolder;
+}
